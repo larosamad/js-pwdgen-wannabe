@@ -12,7 +12,7 @@ const number = 21;
 // document.getElementById('password').innerHTML = yourName + yourSurname + yourColor + number;
 
 // metodo del professore
-// document.getElementById('password').innerHTML = `Your password is: ${yourName}${yourSurname}${yourColor}${number}`
+// document.getElementById('password').innerHTML = `Your password is: ${yourName}${yourSurname}${yourColor}${number}`; 
 
 // metodo daniel (include let password che c'è all'inizio)
 password.innerHTML = `Your password is: ${yourName}${yourSurname}${yourColor}${number}`;
